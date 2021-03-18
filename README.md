@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lekshmisyam
 - 👀 I’m interested in ... Perfumes
 - 🌱 I’m currently learning ... About digital scents 
-- 💞️ I’m looking to collaborate on ... Ahamdesigner/perfume
+- 💞️ I’m looking to collaborate on ... ahamdesigner/scentOs
 - 📫 How to reach me ... Contact syam
 
 <!---
